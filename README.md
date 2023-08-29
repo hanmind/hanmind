@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **hanmind/hanmind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,8 +11,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+아이콘 뱃지 사이트 https://simpleicons.org/?q=numpy
 -->
-<img src="https://img.shields.io/badge/Python-gray}?style=flat&logo=Python&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/PyTorch-gray}?style=flat&logo=PyTorch&logoColor=EE4C2C"/>
-<img src="https://img.shields.io/badge/MySQL-gray}?style=flat&logo=mysql&logoColor=4479A1"/>
-<img src="https://img.shields.io/badge/Slack-yellow}?style=flat&logo=slack&logoColor=4A154B"/>
+<div align="center">
+  
+### Hi there 👋
+  - 📫 How to reach me: sh.sadiehan@seoultech.ac.kr 
+  ### Stacks 🔥
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white"/>
+</div>

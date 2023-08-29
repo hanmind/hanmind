@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://img.shields.io/badge/Python-gray}?style={flat}&logo={Python}&logoColor={3776AB}"/>
-<img src="https://img.shields.io/badge/PyTorch-gray}?style={flat}&logo={PyTorch}&logoColor={EE4C2C}"/>
-<img src="https://img.shields.io/badge/MySQL-gray}?style={flat}&logo={mysql}&logoColor={4479A1}"/>
-<img src="https://img.shields.io/badge/Slack-yellow}?style={flat}&logo={slack}&logoColor={4A154B}"/>
+<img src="https://img.shields.io/badge/Python-gray}?style=flat&logo=Python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/PyTorch-gray}?style=flat&logo=PyTorch&logoColor=EE4C2C"/>
+<img src="https://img.shields.io/badge/MySQL-gray}?style=flat&logo=mysql&logoColor=4479A1"/>
+<img src="https://img.shields.io/badge/Slack-yellow}?style=flat&logo=slack&logoColor=4A154B"/>

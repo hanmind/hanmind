@@ -18,9 +18,12 @@ Here are some ideas to get you started:
   
 ### Hi there 👋
 📫 How to reach me: sh.sadiehan@seoultech.ac.kr 
-  ### Stacks 🔥
+### Stacks 🔥
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white"/>
+### Languages 🌏
+Korean ◼◼◼
+English ◼◼◻
+German ◼◻◻
 </div>
